@@ -18,24 +18,6 @@ A minimal, elegant Pomodoro-style focus timer built with Vite and React.
 - [React 18](https://react.dev/) — UI with hooks (`useState`, `useEffect`, `useCallback`, `useRef`)
 - [DM Mono](https://fonts.google.com/specimen/DM+Mono) + [Instrument Serif](https://fonts.google.com/specimen/Instrument+Serif) — typography via Google Fonts
 
-## Getting Started
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-## Build & Deploy
-
-```bash
-npm run build    # outputs to dist/
-npm run preview  # preview the production build locally
-```
-
-The project is configured to deploy automatically to GitHub Pages via GitHub Actions on every push to `main`.
-
 ## Live Demo
 
 [mvareva.github.io/focus-timer](https://mvareva.github.io/focus-timer)
